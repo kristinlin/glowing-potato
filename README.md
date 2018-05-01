@@ -1,2 +1,2 @@
-# glowing-potato
-(softdev pd08) Work 13: I'm the Scat(er plot) man!
+# Scatter Plot
+Softdev2- Building a scatter plot using D3.
